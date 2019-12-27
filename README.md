@@ -2,7 +2,7 @@
 Classic Snake remade with Pygame library !
 
 <p align="center">
-  <img width="460" height="300" src="SnakePY.PNG">
+  <img width="460" height="460" src="SnakePY.PNG">
 </p>
 
 ## Usage ##
